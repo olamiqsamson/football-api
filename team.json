@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Arsenal",
+        "rating": 4.0,
+        "uclwinner": false,
+        "location": "England"
+    },
+    {
+        "name": "Chelsea",
+        "rating": 4.0,
+        "uclwinner": true,
+        "location": "England"
+    },
+    {
+        "name": "Manchester United",
+        "rating": 3.5,
+        "uclwinner": true,
+        "location": "England"
+    },
+    {
+        "name": "Liverpool",
+        "rating": 4.5,
+        "uclwinner": true,
+        "location": "England"
+    },
+    {
+        "name": "Manchester City",
+        "rating": 4.3,
+        "uclwinner": true,
+        "location": "England"
+    },
+    {
+        "name": "Real Madrid",
+        "rating": 4.6,
+        "uclwinner": true,
+        "location": "Spain"
+    },
+    {
+        "name": "Inter Milan",
+        "rating": 4.1,
+        "uclwinner": true,
+        "location": "Italy"
+    },
+    {
+        "name": "Barcelona",
+        "rating": 4.5,
+        "uclwinner": true,
+        "location": "Spain"
+    },
+    {
+        "name": "Borussia Dortmund",
+        "rating": 3.7,
+        "uclwinner": true,
+        "location": "Germany"
+    },
+    {
+        "name": "Juventus",
+        "rating": 3.9,
+        "uclwinner": true,
+        "location": "Italy"
+    },
+    {
+        "name": "Atletico Madrid",
+        "rating": 4.0,
+        "uclwinner": false,
+        "location": "Spain"
+    },
+    {
+        "name": "Roma",
+        "rating": 2.9,
+        "uclwinner": false,
+        "location": "Italy"
+    },
+    {
+        "name": "Everton",
+        "rating": 2.5,
+        "uclwinner": false,
+        "location": "England"
+    },
+    {
+        "name": "Paris saint German",
+        "rating": 3.9,
+        "uclwinner": false,
+        "location": "France"
+    },
+    {
+        "name": "Bayern Munich",
+        "rating": 4.5,
+        "uclwinner": true,
+        "location": "Germany"
+    },
+    {
+        "name": "Lyon",
+        "rating": 2.0,
+        "uclwinner": false,
+        "location": "France"
+    },
+    {
+        "name": "Ac Milan",
+        "rating": 4.2,
+        "uclwinner": true,
+        "location": "Italy"
+    },
+    {
+        "name": "Lille",
+        "rating": 2.0,
+        "uclwinner": false,
+        "location": "France"
+    },
+    {
+        "name": "Augsburg",
+        "rating": 2.0,
+        "uclwinner": false,
+        "location": "Germany"
+    },
+    {
+        "name": "Valencia",
+        "rating": 3.3,
+        "uclwinner": true,
+        "location": "Spain"
+    },
+    {
+        "name": "West Ham",
+        "rating": 2.9,
+        "uclwinner": false,
+        "location": "England"
+    }
+]
